@@ -1,37 +1,25 @@
-Carolina Fernandes
+<!DOCTYPE html>
+<html lang="pt-br">
+<h2> O diario de uma garota nada organizada </h2>
+    <h4> <p> Bagunceira e o meu sobrenome. </p> <h4> 
+   <style>
+       h2{color:fuchsia}
+        </style>
+        <style> 
+           h4{color:blueviolet}
+        
+        </style>
+        
+       
+    <p>Esses dias eu estava jogando em meu computador escutando musica normalmente, certo? Mas em uma certa hora chegou em uma musica que eu nao aguentei levantei e comecei a dancar igual esse gatinho: </p>
+        <p><img src= "images/gif-de-gatinho-dancando.gif" width="300" height="300"> </p>
 
-You can use the [editor on GitHub](https://github.com/CarolFernandes130709/curso.html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarolFernandes130709/curso.html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <h4> <p> E fiquei gritando la igual louca acredita!</p> </h4>
+    
+   <h4><p>"EU NASCI A DEZ MIL ANOS ATRAZ E NAO TEM NADA NESSE MUNDO QUE EU NAO SAIBA DEMAAIS!!</p> </h4>
+<p> E ja nao basta esse dia vergonhoso ontem mesmo fiquei doida no jogo girando escutando Dancin, eu fiquei exatamente assim:</p>
+        <p> <img src="images/nyan-cat.gif"> </p>
+<h4><p> "DANCING, DANCIN ITS WHAT TO DOOO, DANCING ALL NIGHT I DOO!! DANCING ITS WHAT CLEAN MY SOUL!! </p> </h4>
+        
+    <p> ai gente pelo amor de deus ne, ate parece que tem formiga no bum bum!!</p>
+        <p> Hoje eu fiquei mais parada doque morto no tumulo, cara eu tenho 12 anos estou prestes a fazer 13, eu tenho muita energia acumulada, nao consigo segurar,fala serio!!!</p>
